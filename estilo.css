@@ -1,0 +1,31 @@
+#cabeca1{
+color: blueviolet;
+font-family: Candara;
+text-align: center;
+}
+
+#cabeca2{
+    color:blueviolet;
+    font-family: Candara;
+    text-align: center;
+}
+
+.paragrafo{
+font-family: candara;
+font-weight: bold;
+text-align: center;
+font-size: larger;
+}
+
+img{
+    border: 5px;
+    border-radius: 10px;
+    width: 500px;
+    border-color: purple;
+    border-style: solid;
+}
+
+body{
+    background-color:plum;
+    text-align: center;
+}
